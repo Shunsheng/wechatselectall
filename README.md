@@ -1,11 +1,18 @@
 # wechatselectall
 
-让你能够在微信群中没有管理员权限也能@所有人的tweak，需要越狱iOS设备
+## Description
 
-原理见：iOS反编译-hook微信之艾特所有人 http://www.jianshu.com/p/50e6b8c24430
+A tweak that makes u can at everyone in the group without administration in WeChat.
 
-参考： https://github.com/east520/AutoGetRedEnv/tree/master/autoGetRedEnv
+## References
 
-BY Shunsheng Ree
+iOS反编译-hook微信之艾特所有人 http://www.jianshu.com/p/50e6b8c24430
 
-2016.10.9
+https://github.com/east520/AutoGetRedEnv/tree/master/autoGetRedEnv
+
+## Contact Me
+
+Author: Shunsheng Ree
+
+E-mail: ligedong@antiy.cn
+
