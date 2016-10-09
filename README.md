@@ -33,5 +33,5 @@ https://github.com/east520/AutoGetRedEnv/tree/master/autoGetRedEnv
 
 Author: Shunsheng Ree
 
-E-mail: ligedong@antiy.cn
+E-mail: shunshengree@gmail.com
 
