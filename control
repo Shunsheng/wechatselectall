@@ -1,0 +1,9 @@
+Package: com.weiqing.wechatselectall
+Name: wechatselectall
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak that makes u can at everyone in the group without administration in WeChat.
+Maintainer: ShunshengRee
+Author: ShunshengRee
+Section: Tweaks
